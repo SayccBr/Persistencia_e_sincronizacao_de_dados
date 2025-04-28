@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PhoneDatabase"
 include(":app")
- 
+include(":app:wearos")
