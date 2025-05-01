@@ -17,20 +17,20 @@ O aplicativo do smartphone possui uma funcionalidade de servidor socket, capaz d
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Android Studio Meerkat**: A versão do Android Studio utilizada para o desenvolvimento deste projeto. 🎨💻
-- **Room Database**: Biblioteca para persistência de dados no Android, usada para armazenar as mensagens recebidas localmente no dispositivo. 💾🔒
-- **Sockets**: Utilizado para comunicação entre o smartwatch (WearOS) e o smartphone. 🌐🔗
-- **Kotlin**: Linguagem principal utilizada no desenvolvimento, tanto para o aplicativo WearOS quanto para o aplicativo Android. ⚡️📲
-- **Jetpack Compose**: Usado no projeto WearOS para a criação da interface gráfica. 🎨🖥️
-- **AndroidX**: Conjunto de bibliotecas que facilitam o desenvolvimento de aplicativos Android modernos. 📦📱
+- **Android Studio Meerkat**: A versão do Android Studio utilizada para o desenvolvimento deste projeto. 
+- **Room Database**: Biblioteca para persistência de dados no Android, usada para armazenar as mensagens recebidas localmente no dispositivo. 
+- **Sockets**: Utilizado para comunicação entre o smartwatch (WearOS) e o smartphone. 
+- **Kotlin**: Linguagem principal utilizada no desenvolvimento, tanto para o aplicativo WearOS quanto para o aplicativo Android. 
+- **Jetpack Compose**: Usado no projeto WearOS para a criação da interface gráfica. 
+- **AndroidX**: Conjunto de bibliotecas que facilitam o desenvolvimento de aplicativos Android modernos. 
 
 ## 🏃‍♂️ Como Rodar o Projeto
 
-1. O usuário digita a mensagem e pressiona o botão no smartwatch. 🖋️⬆️
-2. O smartwatch cria a mensagem e envia ao smartphone via **Sockets**. 📩💨
-3. O smartphone captura a mensagem. 📲👀
-4. A mensagem é armazenada no banco de dados local usando **Room**. 💾✅
-5. A interface do smartphone é atualizada com a nova mensagem recebida. 🔄📱
+1. O usuário digita a mensagem e pressiona o botão no smartwatch. 
+2. O smartwatch cria a mensagem e envia ao smartphone via **Sockets**. 
+3. O smartphone captura a mensagem. 
+4. A mensagem é armazenada no banco de dados local usando **Room**. 
+5. A interface do smartphone é atualizada com a nova mensagem recebida. 
 
 ### 📸 **Smartwatch - Interface para Enviar Mensagens**
    ![WearOS](https://github.com/user-attachments/assets/7d2883d5-0922-49f7-8560-c2001cfdfdf9)
