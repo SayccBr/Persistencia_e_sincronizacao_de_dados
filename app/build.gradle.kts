@@ -37,6 +37,12 @@ android {
 }
 
 dependencies {
+
+    implementation ("com.google.android.gms:play-services-wearable:19.0.0") // Ou a versão mais recente
+    implementation("androidx.appcompat:appcompat:1.3.0") // ou uma versão mais recente
+    implementation("androidx.core:core-ktx:1.6.0")
+
+
     //Para usar o Room no app
     implementation(libs.androidx.room.runtime)
     implementation(libs.play.services.wearable)  // Referência ao Room runtime

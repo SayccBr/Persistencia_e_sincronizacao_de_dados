@@ -13,4 +13,8 @@ interface MessageDao {
 
     @Query("SELECT * FROM messages")
     suspend fun getAllMessages(): List<Message>
+
+    @Query("DELETE FROM messages")
+    suspend fun deleteAll()
+
 }

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="app">
+      <SelectionState runConfigName="PhoneDatabase.app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="app.wearos">
+      <SelectionState runConfigName="PhoneDatabase.wear">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

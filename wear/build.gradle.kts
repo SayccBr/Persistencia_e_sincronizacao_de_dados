@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.wearos"
+    namespace = "com.example.wear"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.wearos"
+        applicationId = "com.example.wear"
         minSdk = 30
         targetSdk = 35
         versionCode = 1
@@ -39,6 +39,11 @@ android {
 }
 
 dependencies {
+
+    implementation("androidx.appcompat:appcompat:1.6.1")
+
+
+    implementation ("com.google.android.gms:play-services-wearable:19.0.0") // Ou a versão mais recente
 
     implementation(libs.play.services.wearable)
     implementation(platform(libs.androidx.compose.bom))
