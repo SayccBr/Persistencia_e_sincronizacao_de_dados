@@ -26,8 +26,8 @@ O aplicativo do smartphone possui uma funcionalidade de servidor socket, capaz d
 
 ## Como Rodar o Projeto
 1. O usuário digita a mensagem e pressiona o botão no smartwatch.
-2. O smartwatch captura a mensagem e envia ao smartphone via **Sockets**.
-3. O smartphone recebe a mensagem através do **WearableListenerService**.
+2. O smartwatch cria a mensagem e envia ao smartphone via **Sockets**.
+3. O smartphone captura a mensagem.
 4. A mensagem é armazenada no banco de dados local usando **Room**.
 5. A interface do smartphone é atualizada com a nova mensagem recebida.
 
