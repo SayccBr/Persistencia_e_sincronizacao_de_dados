@@ -35,7 +35,7 @@ O aplicativo do smartphone possui uma funcionalidade de servidor socket, capaz d
    ![WearOS](https://github.com/user-attachments/assets/7d2883d5-0922-49f7-8560-c2001cfdfdf9)
 
 ### . **Smartphone - Exibição das Mensagens Recebidas**
-   <img src="https://github.com/user-attachments/assets/410292f3-dae3-4953-b545-1804c31a8b5f" height="800" width="500"/>
+   <img src="https://github.com/user-attachments/assets/410292f3-dae3-4953-b545-1804c31a8b5f" height="800" width="430"/>
 
 
 ### Requisitos
