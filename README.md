@@ -31,10 +31,10 @@ O aplicativo do smartphone possui uma funcionalidade de servidor socket, capaz d
 4. A mensagem é armazenada no banco de dados local usando **Room**.
 5. A interface do smartphone é atualizada com a nova mensagem recebida.
 
-### . **Smartwatch - Interface para Enviar Mensagens**
+###  **Smartwatch - Interface para Enviar Mensagens**
    ![WearOS](https://github.com/user-attachments/assets/7d2883d5-0922-49f7-8560-c2001cfdfdf9)
 
-### . **Smartphone - Exibição das Mensagens Recebidas**
+###  **Smartphone - Exibição das Mensagens Recebidas**
    <img src="https://github.com/user-attachments/assets/410292f3-dae3-4953-b545-1804c31a8b5f" height="800" width="430"/>
 
 
