@@ -10,10 +10,10 @@ O aplicativo do smartphone possui uma funcionalidade de servidor socket, capaz d
 
 ## 🚀 Funcionalidades
 
-- **Recepção de Mensagens via Socket**: O smartphone escuta uma porta específica e aceita conexões de dispositivos WearOS, recebendo mensagens enviadas. 📲🔌
-- **Armazenamento Local com ROOM**: As mensagens recebidas do smartwatch são armazenadas em um banco de dados local utilizando **Room**, proporcionando persistência e fácil acesso. 💾🛠️
-- **Exibição de Mensagens**: As mensagens armazenadas são exibidas na interface gráfica do smartphone, permitindo que o usuário visualize as interações com o smartwatch. 💬📱
-- **Envio de Mensagens via WearOS**: O smartwatch oferece uma interface simples para que o usuário envie mensagens ao smartphone, utilizando um botão para facilitar o envio. ⌚️💌
+- **Recepção de Mensagens via Socket**: O smartphone escuta uma porta específica e aceita conexões de dispositivos WearOS, recebendo mensagens enviadas. 
+- **Armazenamento Local com ROOM**: As mensagens recebidas do smartwatch são armazenadas em um banco de dados local utilizando **Room**, proporcionando persistência e fácil acesso.
+- **Exibição de Mensagens**: As mensagens armazenadas são exibidas na interface gráfica do smartphone, permitindo que o usuário visualize as interações com o smartwatch. 
+- **Envio de Mensagens via WearOS**: O smartwatch oferece uma interface simples para que o usuário envie mensagens ao smartphone, utilizando um botão para facilitar o envio. 
 
 ## 🛠️ Tecnologias Utilizadas
 
